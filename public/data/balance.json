@@ -1,0 +1,21 @@
+{
+  "openrouter": {
+    "total": 27.0,
+    "used": 13.5878,
+    "balance": 13.4122,
+    "currency": "USD",
+    "yesterdaySpend": 0
+  },
+  "deepseek": {
+    "total": 27.04,
+    "balance": 27.04,
+    "currency": "CNY",
+    "topped_up_balance": 27.04,
+    "granted_balance": 0.0,
+    "yesterdaySpend": 0
+  },
+  "yesterdaySpend": {
+    "openrouter": 0,
+    "deepseek": 0
+  }
+}
