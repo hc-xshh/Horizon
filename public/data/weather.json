@@ -1,0 +1,18 @@
+{
+  "city": "Hangzhou",
+  "current": {
+    "temp": 24,
+    "humidity": 95,
+    "weatherDesc": "Mist",
+    "windSpeed": "4",
+    "feelsLike": 20,
+    "visibility": "2"
+  },
+  "today": {
+    "maxTemp": 32,
+    "minTemp": 24,
+    "sunrise": "04:58 AM",
+    "sunset": "07:04 PM"
+  },
+  "updated": "2026-06-19T07:01:03+08:00"
+}
