@@ -1,3 +1,3 @@
 #!/bin/bash
-cd /home/haha/workspace/codespace/Horizon
+cd /home/haha/workspace/Horizon
 exec uv run horizon-mcp "$@"
