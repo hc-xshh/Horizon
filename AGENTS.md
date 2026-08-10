@@ -19,7 +19,7 @@ uv run pytest tests/ -v
 
 **注意**：git 操作需要先修复 ownership（当前 root clone）：
 ```bash
-git config --global --add safe.directory /home/haha/workspace/codespace/Horizon
+git config --global --add safe.directory /home/haha/workspace/Horizon
 ```
 
 ## Architecture
@@ -86,4 +86,4 @@ Vite 构建 → Cloudflare Pages
 ## Cron
 
 - 每日 05:00 CST → Horizon 全流程 → daily-hub 消费
-- MCP wrapper 路径：`/home/haha/workspace/codespace/Horizon/horizon-mcp-wrapper.sh`
+- MCP wrapper 路径：`/home/haha/workspace/Horizon/horizon-mcp-wrapper.sh`
